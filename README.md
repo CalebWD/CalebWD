@@ -8,6 +8,6 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CalebWD&show_icons=true&bg_color=0D1117,0D1117,1A2B45&text_color=FFFFFF&title_color=FFFFFF&icon_color=58A6FF&hide_border=true&border_radius=10"/>
 </p>
-<p align="center">
-Note: Some repositories may be private due to client confidentiality agreements.
-</p>
+
+<h5 style="color: #8f8f8f;  font-size: 0.9em;" align="center">*Note: Some repositories may be private due to client confidentiality agreements.*</h5>
+
