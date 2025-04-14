@@ -1,6 +1,6 @@
 <p align="center">
   <img height="400em" src="https://calebwd.meternalized.online/svg/header?t=1744621886055"/>
-  <img height="340em" src="https://calebwd.meternalized.online/svg/topleft?t=1744621886055"/> <img height="340em" src="https://calebwd.meternalized.online/spotify?t=1744621886055"/>
+  <img height="320em" src="https://calebwd.meternalized.online/svg/topleft?t=1744621886055"/> <img height="320em" src="https://calebwd.meternalized.online/spotify?t=1744621886055"/>
   <img height="530em" src="https://calebwd.meternalized.online/most-played?t=1744621886055"/> <img height="530em" src="https://calebwd.meternalized.online/github-changelog?username=CalebWD"/> <img height="530em" src="https://calebwd.meternalized.online/github?t=1744621886055"/>
 </p>
 
