@@ -81,4 +81,4 @@ Cloud Solutions
 
 </div>
 </div>
-<small>Note: Some repositories may be private due to client confidentiality agreements.</small>
+<small>Note: Some repositories may be private due to client confidentiality agreements. </small>
